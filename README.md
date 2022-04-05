@@ -9,7 +9,7 @@ A Simple Heart Disease Prediction App 📱 built to demonstrate use of Machine L
 
 ***Click to View Note app Design from below 👇***
 
-[![Heart Disease Prediction App](https://img.shields.io/badge/HeartApp-FIGMA-black.svg?style=for-the-badge&logo=figma)](https://www.figma.com/file/XoFCU5k3AzwtOgS0gOmZWL/Heart-Disease-Prediction-App?node-id=29%3A196)
+[![Heart Disease Prediction App](https://img.shields.io/badge/Heart_Disease_Prediction_App-FIGMA-black.svg?style=for-the-badge&logo=figma)](https://www.figma.com/file/XoFCU5k3AzwtOgS0gOmZWL/Heart-Disease-Prediction-App?node-id=29%3A196)
 
 <br />
 
