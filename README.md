@@ -5,13 +5,6 @@ A Simple Heart Disease Prediction App 📱 built to demonstrate use of Machine L
 
 <br />
 
-***Try latest Note app apk from below 👇***
-
-[![Note App](https://img.shields.io/badge/NoteApp-APK-black.svg?style=for-the-badge&logo=android)](https://github.com/mdzihad89/note_app_jetpack_compose/releases/download/v1.0.0/NoteApp.apk)
-
-
-<br />
-
 ## UI Design 🎨
 
 ***Click to View Note app Design from below 👇***
