@@ -1,7 +1,7 @@
 
 
 # Heart Disease Prediction App
-A Simple Heart Disease Prediction App 📱 built to demonstrate use of Machine Learning Model and Flask Api Deploy.
+A Simple Flutter Application Heart Disease Prediction App 📱 built to demonstrate use of Machine Learning Model and Flask Api .
 
 <br />
 
