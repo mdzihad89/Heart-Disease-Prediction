@@ -22,7 +22,6 @@ Splash | Home Page | Prediction Page
 
 ## Built With FLUTTER
 
-<br />
 
 ## Contact 📩
 Have an project? DM me at 👇
