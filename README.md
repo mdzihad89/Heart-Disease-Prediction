@@ -20,7 +20,7 @@ Splash | Home Page | Prediction Page
 <br />
 
 
-## Built With FLUTTER
+## Built With Flutter
 
 
 ## Contact 📩
