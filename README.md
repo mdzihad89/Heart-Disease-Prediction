@@ -1,4 +1,4 @@
-
+![cover](https://user-images.githubusercontent.com/83513508/162081593-dabd3cdd-9dbf-43ad-b950-40cc22b65325.png)
 
 # Heart Disease Prediction App
 A Simple Flutter Application Heart Disease Prediction App 📱 built to demonstrate use of Machine Learning Model and Flask Api .
