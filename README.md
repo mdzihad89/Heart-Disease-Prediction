@@ -1,7 +1,7 @@
 ![cover](https://user-images.githubusercontent.com/83513508/162081593-dabd3cdd-9dbf-43ad-b950-40cc22b65325.png)
 
 # Heart Disease Prediction App
-A Simple Flutter Application Heart Disease Prediction App 📱 built to demonstrate use of Machine Learning Model and Flask Api .
+A Simple Flutter Heart Disease Prediction App 📱 built to demonstrate use of Machine Learning Model deploy.
 
 <br />
 
@@ -35,9 +35,9 @@ Drop a mail to:- mdzihad321@gmail.com
     MIT License
 
 
-    Copyright 2021 Md Zihad
+    Copyright 2022 Md Zihad
 
-    Licensed under the Apache License, Version 2.0 (the "License");
+    Licensed under the MIT License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
 
